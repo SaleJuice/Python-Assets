@@ -1,2 +1,2 @@
 # Python-Assets
-This is a repository for python code.
+This is a repository for interesting python code.
